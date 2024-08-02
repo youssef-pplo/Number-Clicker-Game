@@ -25,4 +25,4 @@ To run the Number Clicker game locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Youssef-pplo/number-clicker.git
+   git clone https://github.com/Youssef-pplo/Number-Clicker-Game.git
